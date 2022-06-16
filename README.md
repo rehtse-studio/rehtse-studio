@@ -8,7 +8,7 @@ Making YouTube videos allowed me to share my process on mechanics that I will li
 :video_camera: : https://www.youtube.com/c/RehtseStudio/videos
 #
 ### Medium Articles
-I might not be the best writer but I tried to share my findings and knoledge as simple as posible.<br>
+I might not be the best writer but I tried to share my findings and knowledge as simple as posible.<br>
 
 Made With Unity | 2D Space Shooter <br>
 :computer: https://rehtse-studio.medium.com/list/made-with-unity-unity-vr-6c5df2bf38b3
