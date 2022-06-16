@@ -4,6 +4,7 @@ A Unity C# Developer | Software Engineer, developing games prototype or applicat
 #
 ### YouTube
 Making YouTube videos allowed me to share my process on mechanics that I will like to create.  This also allowed me to get feedback from user to know what kind of videos to do next.<br>
+
 :video_camera: : https://www.youtube.com/c/RehtseStudio/videos
 #
 ### Medium Articles
